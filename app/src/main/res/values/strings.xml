@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StudentApp</string>
+    <string name="add_student">Add Student</string>
+    <string name="add_student_button">Add</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="search_student">Search Student</string>
+    <string name="list_student">View all Students</string>
+    <string name="main_screen_title">Student Directory App</string>
+    <string name="name_input">Enter your name</string>
+    <string name="email_input">Enter your email</string>
+    <string name="phone_input">Enter your phone number</string>
+    <string name="add">Add</string>
+    <string name="search_student_placeholder">Search for a student by email...</string>
+    <string name="search_edit_student_placeholder">Search for a student to edit by email...</string>
+    <string name="search_student_label">Search</string>
+    <string name="search_error_msg">No students found</string>
+    <string name="back_button_content_description">Back</string>
+    <string name="name_placeholder">Enter your first and last name...</string>
+    <string name="name_error_msg">Enter a valid name input</string>
+    <string name="email_placeholder">Enter your email address...</string>
+    <string name="email_error_msg">Enter a valid email address</string>
+    <string name="phone_placeholder">Enter your phone number...</string>
+    <string name="phone_error_msg">Enter a valid phone number</string>
+    <string name="remove_student">Remove Student</string>
+    <string name="update_student_button">Update Student</string>
+    <string name="update_success_msg">Student successfully updated</string>
+    <string name="student_add_success_msg">Student successfully added</string>
+    <string name="pop_up_dialog">Confirm student deletion below...</string>
+    <string name="confirm_popup">Confirm</string>
+    <string name="dismiss_popup">Dismiss</string>
+    <string name="dialogtitle_test_tag">dialogTitle</string>
+    <string name="confirmpopup_test_tag">confirmPopUp</string>
+    <string name="dismisspopup_test_tag">dismissPopUp</string>
+</resources>
